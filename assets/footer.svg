@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220">
+<defs><linearGradient id="foot" x1="0" x2="1"><stop stop-color="#63e6be"/><stop offset=".5" stop-color="#818cf8"/><stop offset="1" stop-color="#e879f9"/></linearGradient></defs>
+<rect width="1200" height="220" rx="24" fill="#090d18"/>
+<g fill="none" stroke="url(#foot)" opacity=".55">
+<path d="M0 170 Q300 60 600 170 T1200 170" stroke-width="2"><animate attributeName="d" values="M0 170 Q300 60 600 170 T1200 170;M0 170 Q300 230 600 170 T1200 170;M0 170 Q300 60 600 170 T1200 170" dur="7s" repeatCount="indefinite"/></path>
+<path d="M0 190 Q300 80 600 190 T1200 190" stroke-width="1"/>
+</g>
+<text x="600" y="72" text-anchor="middle" fill="#a5b4fc" font-family="Arial,sans-serif" font-size="14" letter-spacing="5">ENGINEERING × AI × PRODUCT</text>
+<text x="600" y="125" text-anchor="middle" fill="#ffffff" font-family="Arial,sans-serif" font-size="34" font-weight="700">MAKE IDEAS USEFUL</text>
+<text x="600" y="155" text-anchor="middle" fill="#b9c1d6" font-family="Arial,sans-serif" font-size="16">Think clearly. Build thoughtfully. Improve continuously.</text>
+</svg>

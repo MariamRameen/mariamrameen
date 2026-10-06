@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="210" viewBox="0 0 1200 210">
+<rect width="1200" height="210" rx="20" fill="#0c1020"/>
+<text x="42" y="43" fill="#a5b4fc" font-family="Arial,sans-serif" font-size="15" letter-spacing="3">THE ENGINEERING LOOP</text>
+<g font-family="Arial,sans-serif">
+<g transform="translate(45 70)"><rect width="250" height="95" rx="14" fill="#151d31" stroke="#63e6be" stroke-opacity=".8"/><text x="22" y="34" fill="#63e6be" font-size="13">01 / THINK</text><text x="22" y="62" fill="#ffffff" font-size="20" font-weight="700">Understand the why</text><text x="22" y="81" fill="#aeb8ce" font-size="12">Requirements and users</text></g>
+<g transform="translate(325 70)"><rect width="250" height="95" rx="14" fill="#151d31" stroke="#818cf8" stroke-opacity=".8"/><text x="22" y="34" fill="#a5b4fc" font-size="13">02 / SHAPE</text><text x="22" y="62" fill="#ffffff" font-size="20" font-weight="700">Design the how</text><text x="22" y="81" fill="#aeb8ce" font-size="12">Flows and architecture</text></g>
+<g transform="translate(605 70)"><rect width="250" height="95" rx="14" fill="#151d31" stroke="#c084fc" stroke-opacity=".8"/><text x="22" y="34" fill="#d8b4fe" font-size="13">03 / MAKE</text><text x="22" y="62" fill="#ffffff" font-size="20" font-weight="700">Build the solution</text><text x="22" y="81" fill="#aeb8ce" font-size="12">Code and intelligence</text></g>
+<g transform="translate(885 70)"><rect width="270" height="95" rx="14" fill="#151d31" stroke="#63e6be" stroke-opacity=".8"/><text x="22" y="34" fill="#63e6be" font-size="13">04 / IMPROVE</text><text x="22" y="62" fill="#ffffff" font-size="20" font-weight="700">Prove it works</text><text x="22" y="81" fill="#aeb8ce" font-size="12">Testing and delivery</text></g>
+</g>
+<circle cx="600" cy="190" r="3" fill="#63e6be"><animate attributeName="cx" values="45;1155;45" dur="7s" repeatCount="indefinite"/></circle>
+</svg>

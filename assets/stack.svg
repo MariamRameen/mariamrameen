@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="160" viewBox="0 0 1200 160">
+<rect width="1200" height="160" rx="20" fill="#0c1020"/>
+<text x="32" y="37" fill="#a5b4fc" font-family="Arial,sans-serif" font-size="13" letter-spacing="3">MY TOOLKIT</text>
+<g font-family="Arial,sans-serif" text-anchor="middle">
+<g transform="translate(35 57)"><rect width="205" height="66" rx="12" fill="#171d35" stroke="#63e6be"/><text x="102" y="27" fill="#63e6be" font-size="12">LANGUAGES</text><text x="102" y="48" fill="#ffffff" font-size="16">Python · JavaScript · SQL</text></g>
+<g transform="translate(255 57)"><rect width="205" height="66" rx="12" fill="#171d35" stroke="#818cf8"/><text x="102" y="27" fill="#a5b4fc" font-size="12">APPLICATIONS</text><text x="102" y="48" fill="#ffffff" font-size="16">React · Next · APIs</text></g>
+<g transform="translate(475 57)"><rect width="205" height="66" rx="12" fill="#171d35" stroke="#c084fc"/><text x="102" y="27" fill="#d8b4fe" font-size="12">INTELLIGENCE</text><text x="102" y="48" fill="#ffffff" font-size="16">LLMs · RAG · NLP</text></g>
+<g transform="translate(695 57)"><rect width="205" height="66" rx="12" fill="#171d35" stroke="#818cf8"/><text x="102" y="27" fill="#a5b4fc" font-size="12">QUALITY</text><text x="102" y="48" fill="#ffffff" font-size="16">Cypress · Selenium</text></g>
+<g transform="translate(915 57)"><rect width="250" height="66" rx="12" fill="#132a2a" stroke="#63e6be"/><text x="125" y="27" fill="#63e6be" font-size="12">DELIVERY</text><text x="125" y="48" fill="#ffffff" font-size="16">Docker · Jenkins · AWS</text></g>
+</g>
+</svg>

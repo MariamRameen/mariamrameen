@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150">
+<rect width="1200" height="150" rx="20" fill="#0c1020"/>
+<defs><linearGradient id="line" x1="0" x2="1"><stop stop-color="#63e6be"/><stop offset="1" stop-color="#a78bfa"/></linearGradient></defs>
+<path d="M120 73H1080" stroke="#343b5c" stroke-width="3"/>
+<path d="M120 73H1080" stroke="url(#line)" stroke-width="3" stroke-dasharray="70 930">
+<animate attributeName="stroke-dashoffset" from="1000" to="0" dur="5s" repeatCount="indefinite"/>
+</path>
+<g font-family="Arial,sans-serif" text-anchor="middle">
+<g transform="translate(120 73)"><circle r="25" fill="#182c37" stroke="#63e6be"/><text y="6" fill="#63e6be" font-size="17">01</text><text y="53" fill="#f1f5f9" font-size="14">DISCOVER</text></g>
+<g transform="translate(312 73)"><circle r="25" fill="#20203e" stroke="#818cf8"/><text y="6" fill="#a5b4fc" font-size="17">02</text><text y="53" fill="#f1f5f9" font-size="14">DEFINE</text></g>
+<g transform="translate(504 73)"><circle r="25" fill="#20203e" stroke="#818cf8"/><text y="6" fill="#a5b4fc" font-size="17">03</text><text y="53" fill="#f1f5f9" font-size="14">DESIGN</text></g>
+<g transform="translate(696 73)"><circle r="25" fill="#20203e" stroke="#818cf8"/><text y="6" fill="#a5b4fc" font-size="17">04</text><text y="53" fill="#f1f5f9" font-size="14">BUILD</text></g>
+<g transform="translate(888 73)"><circle r="25" fill="#20203e" stroke="#c084fc"/><text y="6" fill="#d8b4fe" font-size="17">05</text><text y="53" fill="#f1f5f9" font-size="14">TEST</text></g>
+<g transform="translate(1080 73)"><circle r="25" fill="#182c37" stroke="#63e6be"/><text y="6" fill="#63e6be" font-size="17">06</text><text y="53" fill="#f1f5f9" font-size="14">SHIP</text></g>
+</g></svg>

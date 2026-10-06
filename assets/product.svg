@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190">
+<rect width="1200" height="190" rx="20" fill="#0c1020"/>
+<text x="32" y="38" fill="#a5b4fc" font-family="Arial,sans-serif" font-size="13" letter-spacing="3">PRODUCT THINKING</text>
+<text x="32" y="76" fill="#ffffff" font-family="Arial,sans-serif" font-size="25" font-weight="700">Build the right thing, then build it right.</text>
+<g font-family="Arial,sans-serif" font-size="14" text-anchor="middle">
+<g transform="translate(35 105)"><rect width="165" height="48" rx="24" fill="#171d35" stroke="#59658f"/><text x="82" y="29" fill="#ffffff">Understand</text></g>
+<g transform="translate(225 105)"><rect width="165" height="48" rx="24" fill="#171d35" stroke="#59658f"/><text x="82" y="29" fill="#ffffff">Prioritize</text></g>
+<g transform="translate(415 105)"><rect width="165" height="48" rx="24" fill="#171d35" stroke="#818cf8"/><text x="82" y="29" fill="#c7d2fe">Prototype</text></g>
+<g transform="translate(605 105)"><rect width="165" height="48" rx="24" fill="#171d35" stroke="#818cf8"/><text x="82" y="29" fill="#c7d2fe">Validate</text></g>
+<g transform="translate(795 105)"><rect width="165" height="48" rx="24" fill="#132a2a" stroke="#63e6be"/><text x="82" y="29" fill="#a7f3d0">Deliver</text></g>
+<g transform="translate(985 105)"><rect width="180" height="48" rx="24" fill="#132a2a" stroke="#63e6be"/><text x="90" y="29" fill="#a7f3d0">Improve</text></g>
+</g>
+<circle cx="35" cy="170" r="3" fill="#63e6be"><animate attributeName="cx" values="35;1165;35" dur="8s" repeatCount="indefinite"/></circle>
+</svg>
